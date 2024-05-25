@@ -13,3 +13,8 @@ This website serves as my online portfolio where I showcase my projects, skills,
 - JavaScript
 - Bootstrap
 - [FontAwesome](https://fontawesome.com/) for icons
+
+
+## Deployment
+
+Check out my portfolio [https://youssefhajaj.github.io/](https://youssefhajaj.github.io/)
