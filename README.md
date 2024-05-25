@@ -1,10 +1,10 @@
-# Youssef Hajaj's Portfolio
+# Portfolio
 
-This is the source code for Youssef Hajaj's portfolio website hosted on GitHub Pages.
+This is the source code for My portfolio website hosted on GitHub Pages.
 
 ## About
 
-This website serves as my online portfolio where I showcase my projects, skills, and experiences as a web developer.
+This website serves as my online portfolio where I showcase my projects, skills, and experiences as a developer.
 
 ## Technologies Used
 
