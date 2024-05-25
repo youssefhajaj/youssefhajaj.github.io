@@ -17,4 +17,5 @@ This website serves as my online portfolio where I showcase my projects, skills,
 
 ## Deployment
 
-Check out my portfolio [youssef hajaj](https://youssefhajaj.github.io/) (opens in new window).
+Check out my portfolio <a href="https://youssefhajaj.github.io/" target="_blank">youssef hajaj</a>.
+
